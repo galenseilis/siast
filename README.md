@@ -1,4 +1,6 @@
-# siast
+# SIAST
+
+This repository stores data from some of the student exercises I particpated in during my attendance at the Saskatchewan Institute of Applied Science and Technology. I may provide analyses of the data over time.
 
 ## Overview
 
