@@ -4,9 +4,9 @@ This repository stores data from some of the student exercises I particpated in 
 
 ## Overview
 
-This is your new Kedro project with Kedro-Viz setup, which was generated using `kedro 0.19.6`.
+This project was was generated using `kedro 0.19.6`.
 
-Take a look at the [Kedro documentation](https://docs.kedro.org) to get started.
+Take a look at the [Kedro documentation](https://docs.kedro.org) for more information on Kedro.
 
 ## How to install dependencies
 
